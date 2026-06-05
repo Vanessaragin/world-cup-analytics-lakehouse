@@ -1,0 +1,842 @@
+match_id,year,team,opponent,player_name,minute,goal_side
+1930_1,1930,France,Mexico,L. Laurent,19,team1
+1930_1,1930,France,Mexico,Langiller,40,team1
+1930_1,1930,France,Mexico,Maschinot,43,team1
+1930_1,1930,France,Mexico,Maschinot,87,team1
+1930_1,1930,Mexico,France,Carreño,70,team2
+1930_2,1930,Argentina,France,Monti,81,team1
+1930_3,1930,Chile,Mexico,Vidal,3,team1
+1930_3,1930,Chile,Mexico,Vidal,65,team1
+1930_3,1930,Chile,Mexico,M. Rosas,51,team1
+1930_4,1930,Chile,France,Subiabre,65,team1
+1930_5,1930,Argentina,Mexico,Stábile,8,team1
+1930_5,1930,Argentina,Mexico,Stábile,17,team1
+1930_5,1930,Argentina,Mexico,Stábile,80,team1
+1930_5,1930,Argentina,Mexico,Zumelzú,12,team1
+1930_5,1930,Argentina,Mexico,Zumelzú,55,team1
+1930_5,1930,Argentina,Mexico,Varallo,53,team1
+1930_5,1930,Mexico,Argentina,M. Rosas,42,team2
+1930_5,1930,Mexico,Argentina,M. Rosas,65,team2
+1930_5,1930,Mexico,Argentina,Gayón,75,team2
+1930_6,1930,Argentina,Chile,Stábile,12,team1
+1930_6,1930,Argentina,Chile,Stábile,13,team1
+1930_6,1930,Argentina,Chile,M. Evaristo,81,team1
+1930_6,1930,Chile,Argentina,Subiabre,15,team2
+1930_7,1930,Yugoslavia,Brazil,Tirnanić,21,team1
+1930_7,1930,Yugoslavia,Brazil,Bek,30,team1
+1930_7,1930,Brazil,Yugoslavia,Preguinho,62,team2
+1930_8,1930,Yugoslavia,Bolivia,Bek,60,team1
+1930_8,1930,Yugoslavia,Bolivia,Bek,67,team1
+1930_8,1930,Yugoslavia,Bolivia,Marjanović,65,team1
+1930_8,1930,Yugoslavia,Bolivia,Vujadinović,85,team1
+1930_9,1930,Brazil,Bolivia,Moderato,37,team1
+1930_9,1930,Brazil,Bolivia,Moderato,73,team1
+1930_9,1930,Brazil,Bolivia,Preguinho,57,team1
+1930_9,1930,Brazil,Bolivia,Preguinho,83,team1
+1930_10,1930,Romania,Peru,Deşu,1,team1
+1930_10,1930,Romania,Peru,Stanciu,79,team1
+1930_10,1930,Romania,Peru,Kovács,89,team1
+1930_10,1930,Peru,Romania,Souza Ferreira,75,team2
+1930_11,1930,Uruguay,Peru,Castro,60,team1
+1930_12,1930,Uruguay,Romania,Dorado,7,team1
+1930_12,1930,Uruguay,Romania,Scarone,24,team1
+1930_12,1930,Uruguay,Romania,Anselmo,30,team1
+1930_12,1930,Uruguay,Romania,Cea,35,team1
+1930_13,1930,United States,Belgium,McGhee,23,team1
+1930_13,1930,United States,Belgium,Florie,45,team1
+1930_13,1930,United States,Belgium,Patenaude,69,team1
+1930_14,1930,United States,Paraguay,Patenaude,10,team1
+1930_14,1930,United States,Paraguay,Patenaude,15,team1
+1930_14,1930,United States,Paraguay,Patenaude,50,team1
+1930_15,1930,Paraguay,Belgium,Vargas Peña,40,team1
+1930_16,1930,Argentina,United States,Monti,20,team1
+1930_16,1930,Argentina,United States,Scopelli,56,team1
+1930_16,1930,Argentina,United States,Stábile,69,team1
+1930_16,1930,Argentina,United States,Stábile,87,team1
+1930_16,1930,Argentina,United States,Peucelle,80,team1
+1930_16,1930,Argentina,United States,Peucelle,85,team1
+1930_16,1930,United States,Argentina,Brown,89,team2
+1930_17,1930,Uruguay,Yugoslavia,Cea,18,team1
+1930_17,1930,Uruguay,Yugoslavia,Cea,67,team1
+1930_17,1930,Uruguay,Yugoslavia,Cea,72,team1
+1930_17,1930,Uruguay,Yugoslavia,Anselmo,20,team1
+1930_17,1930,Uruguay,Yugoslavia,Anselmo,31,team1
+1930_17,1930,Uruguay,Yugoslavia,Iriarte,61,team1
+1930_17,1930,Yugoslavia,Uruguay,Vujadinović,4,team2
+1930_18,1930,Uruguay,Argentina,Dorado,12,team1
+1930_18,1930,Uruguay,Argentina,Cea,57,team1
+1930_18,1930,Uruguay,Argentina,Iriarte,68,team1
+1930_18,1930,Uruguay,Argentina,Castro,89,team1
+1930_18,1930,Argentina,Uruguay,Peucelle,20,team2
+1930_18,1930,Argentina,Uruguay,Stábile,37,team2
+1934_1,1934,Sweden,Argentina,Jonasson,9,team1
+1934_1,1934,Sweden,Argentina,Jonasson,67,team1
+1934_1,1934,Sweden,Argentina,Kroon,79,team1
+1934_1,1934,Argentina,Sweden,Belis,4,team2
+1934_1,1934,Argentina,Sweden,Galateo,48,team2
+1934_2,1934,Austria,France,Sindelar,44,team1
+1934_2,1934,Austria,France,Schall,93,team1
+1934_2,1934,Austria,France,Bican,109,team1
+1934_2,1934,France,Austria,Nicolas,18,team2
+1934_2,1934,France,Austria,Verriest,116,team2
+1934_3,1934,Germany,Belgium,Kobierski,25,team1
+1934_3,1934,Germany,Belgium,Siffling,49,team1
+1934_3,1934,Germany,Belgium,Conen,66,team1
+1934_3,1934,Germany,Belgium,Conen,70,team1
+1934_3,1934,Germany,Belgium,Conen,87,team1
+1934_3,1934,Belgium,Germany,Voorhoof,29,team2
+1934_3,1934,Belgium,Germany,Voorhoof,43,team2
+1934_4,1934,Spain,Brazil,Iraragorri,18,team1
+1934_4,1934,Spain,Brazil,Iraragorri,25,team1
+1934_4,1934,Spain,Brazil,Lángara,29,team1
+1934_4,1934,Brazil,Spain,Leônidas,55,team2
+1934_5,1934,Hungary,Egypt,Teleki,11,team1
+1934_5,1934,Hungary,Egypt,Toldi,27,team1
+1934_5,1934,Hungary,Egypt,Toldi,61,team1
+1934_5,1934,Hungary,Egypt,Vincze,53,team1
+1934_5,1934,Egypt,Hungary,Fawzi,31,team2
+1934_5,1934,Egypt,Hungary,Fawzi,39,team2
+1934_6,1934,Switzerland,Netherlands,Kielholz,7,team1
+1934_6,1934,Switzerland,Netherlands,Kielholz,43,team1
+1934_6,1934,Switzerland,Netherlands,Abegglen,69,team1
+1934_6,1934,Netherlands,Switzerland,Smit,19,team2
+1934_6,1934,Netherlands,Switzerland,Vente,84,team2
+1934_7,1934,Italy,United States,Schiavio,18,team1
+1934_7,1934,Italy,United States,Schiavio,29,team1
+1934_7,1934,Italy,United States,Schiavio,64,team1
+1934_7,1934,Italy,United States,Orsi,20,team1
+1934_7,1934,Italy,United States,Orsi,69,team1
+1934_7,1934,Italy,United States,Ferrari,63,team1
+1934_7,1934,Italy,United States,Meazza,90,team1
+1934_7,1934,United States,Italy,Donelli,57,team2
+1934_8,1934,Czechoslovakia,Romania,Puč,50,team1
+1934_8,1934,Czechoslovakia,Romania,Nejedlý,67,team1
+1934_8,1934,Romania,Czechoslovakia,Dobay,11,team2
+1934_9,1934,Czechoslovakia,Switzerland,Svoboda,24,team1
+1934_9,1934,Czechoslovakia,Switzerland,Sobotka,49,team1
+1934_9,1934,Czechoslovakia,Switzerland,Nejedlý,82,team1
+1934_9,1934,Switzerland,Czechoslovakia,Kielholz,18,team2
+1934_9,1934,Switzerland,Czechoslovakia,Jäggi,78,team2
+1934_10,1934,Germany,Sweden,Hohmann,60,team1
+1934_10,1934,Germany,Sweden,Hohmann,63,team1
+1934_10,1934,Sweden,Germany,Dunker,82,team2
+1934_11,1934,Italy,Spain,Ferrari,44,team1
+1934_11,1934,Spain,Italy,Regueiro,30,team2
+1934_12,1934,Austria,Hungary,Horvath,8,team1
+1934_12,1934,Austria,Hungary,Zischek,51,team1
+1934_12,1934,Hungary,Austria,Sárosi,60,team2
+1934_13,1934,Italy,Spain,Meazza,11,team1
+1934_14,1934,Italy,Austria,Guaita,19,team1
+1934_15,1934,Czechoslovakia,Germany,Nejedlý,19,team1
+1934_15,1934,Czechoslovakia,Germany,Nejedlý,71,team1
+1934_15,1934,Czechoslovakia,Germany,Nejedlý,80,team1
+1934_15,1934,Germany,Czechoslovakia,Noack,62,team2
+1934_16,1934,Germany,Austria,Lehner,1,team1
+1934_16,1934,Germany,Austria,Lehner,42,team1
+1934_16,1934,Germany,Austria,Conen,27,team1
+1934_16,1934,Austria,Germany,Horvath,28,team2
+1934_16,1934,Austria,Germany,Sesta,54,team2
+1934_17,1934,Italy,Czechoslovakia,Orsi,81,team1
+1934_17,1934,Italy,Czechoslovakia,Schiavio,95,team1
+1934_17,1934,Czechoslovakia,Italy,Puč,71,team2
+1938_1,1938,Switzerland,Germany,Abegglen,43,team1
+1938_1,1938,Germany,Switzerland,Gauchel,29,team2
+1938_2,1938,Hungary,Dutch East Indies,Kohut,14,team1
+1938_2,1938,Hungary,Dutch East Indies,Toldi,16,team1
+1938_2,1938,Hungary,Dutch East Indies,Sárosi,25,team1
+1938_2,1938,Hungary,Dutch East Indies,Sárosi,88,team1
+1938_2,1938,Hungary,Dutch East Indies,Zsengellér,30,team1
+1938_2,1938,Hungary,Dutch East Indies,Zsengellér,67,team1
+1938_3,1938,France,Belgium,Veinante,1,team1
+1938_3,1938,France,Belgium,Nicolas,16,team1
+1938_3,1938,France,Belgium,Nicolas,69,team1
+1938_3,1938,Belgium,France,Isemborghs,38,team2
+1938_4,1938,Cuba,Romania,Socorro,44,team1
+1938_4,1938,Cuba,Romania,Fernández,87,team1
+1938_4,1938,Cuba,Romania,Tuñas,117,team1
+1938_4,1938,Romania,Cuba,Bindea,35,team2
+1938_4,1938,Romania,Cuba,Baratky,88,team2
+1938_4,1938,Romania,Cuba,Dobay,105,team2
+1938_5,1938,Italy,Norway,Ferraris,2,team1
+1938_5,1938,Italy,Norway,Piola,94,team1
+1938_5,1938,Norway,Italy,Brustad,83,team2
+1938_6,1938,Brazil,Poland,Leônidas,18,team1
+1938_6,1938,Brazil,Poland,Leônidas,93,team1
+1938_6,1938,Brazil,Poland,Leônidas,104,team1
+1938_6,1938,Brazil,Poland,Romeu,25,team1
+1938_6,1938,Brazil,Poland,Perácio,44,team1
+1938_6,1938,Brazil,Poland,Perácio,71,team1
+1938_6,1938,Poland,Brazil,Scherfke,23,team2
+1938_6,1938,Poland,Brazil,Wilimowski,53,team2
+1938_6,1938,Poland,Brazil,Wilimowski,59,team2
+1938_6,1938,Poland,Brazil,Wilimowski,89,team2
+1938_6,1938,Poland,Brazil,Wilimowski,118,team2
+1938_7,1938,Czechoslovakia,Netherlands,Košťálek,93,team1
+1938_7,1938,Czechoslovakia,Netherlands,Nejedlý,111,team1
+1938_7,1938,Czechoslovakia,Netherlands,Zeman,118,team1
+1938_9,1938,Cuba,Romania,Socorro,51,team1
+1938_9,1938,Cuba,Romania,Oliveira,57,team1
+1938_9,1938,Romania,Cuba,Dobay,35,team2
+1938_10,1938,Germany,Switzerland,Hahnemann,8,team1
+1938_10,1938,Germany,Switzerland,Lörtscher,22,team1
+1938_10,1938,Switzerland,Germany,Walaschek,42,team2
+1938_10,1938,Switzerland,Germany,Bickel,64,team2
+1938_10,1938,Switzerland,Germany,Abegglen,75,team2
+1938_10,1938,Switzerland,Germany,Abegglen,78,team2
+1938_11,1938,Brazil,Czechoslovakia,Leônidas,30,team1
+1938_11,1938,Czechoslovakia,Brazil,Nejedlý,65,team2
+1938_12,1938,Hungary,Switzerland,Sárosi,40,team2
+1938_12,1938,Hungary,Switzerland,Zsengellér,89,team2
+1938_13,1938,Sweden,Cuba,H. Andersson,9,team1
+1938_13,1938,Sweden,Cuba,H. Andersson,81,team1
+1938_13,1938,Sweden,Cuba,H. Andersson,90,team1
+1938_13,1938,Sweden,Cuba,Wetterström,32,team1
+1938_13,1938,Sweden,Cuba,Wetterström,37,team1
+1938_13,1938,Sweden,Cuba,Wetterström,44,team1
+1938_13,1938,Sweden,Cuba,Keller,80,team1
+1938_13,1938,Sweden,Cuba,Nyberg,84,team1
+1938_14,1938,France,Italy,Heisserer,10,team1
+1938_14,1938,Italy,France,Colaussi,9,team2
+1938_14,1938,Italy,France,Piola,51,team2
+1938_14,1938,Italy,France,Piola,72,team2
+1938_15,1938,Brazil,Czechoslovakia,Leônidas,57,team1
+1938_15,1938,Brazil,Czechoslovakia,Roberto,62,team1
+1938_15,1938,Czechoslovakia,Brazil,Kopecký,25,team2
+1938_16,1938,Hungary,Sweden,Jacobsson,19,team1
+1938_16,1938,Hungary,Sweden,Titkos,37,team1
+1938_16,1938,Hungary,Sweden,Zsengellér,39,team1
+1938_16,1938,Hungary,Sweden,Zsengellér,85,team1
+1938_16,1938,Hungary,Sweden,Sárosi,65,team1
+1938_16,1938,Sweden,Hungary,Nyberg,1,team2
+1938_17,1938,Italy,Brazil,Colaussi,51,team1
+1938_17,1938,Italy,Brazil,Meazza,60,team1
+1938_17,1938,Brazil,Italy,Romeu,87,team2
+1938_18,1938,Sweden,Brazil,Jonasson,28,team1
+1938_18,1938,Sweden,Brazil,Nyberg,38,team1
+1938_18,1938,Brazil,Sweden,Romeu,44,team2
+1938_18,1938,Brazil,Sweden,Leônidas,63,team2
+1938_18,1938,Brazil,Sweden,Leônidas,74,team2
+1938_18,1938,Brazil,Sweden,Perácio,80,team2
+1938_19,1938,Hungary,Italy,Titkos,8,team1
+1938_19,1938,Hungary,Italy,Sárosi,70,team1
+1938_19,1938,Italy,Hungary,Colaussi,6,team2
+1938_19,1938,Italy,Hungary,Colaussi,35,team2
+1938_19,1938,Italy,Hungary,Piola,16,team2
+1938_19,1938,Italy,Hungary,Piola,82,team2
+1950_1,1950,Brazil,Mexico,Ademir,30,team1
+1950_1,1950,Brazil,Mexico,Ademir,79,team1
+1950_1,1950,Brazil,Mexico,Jair,65,team1
+1950_1,1950,Brazil,Mexico,Baltazar,71,team1
+1950_2,1950,Yugoslavia,Switzerland,Mitić,59,team1
+1950_2,1950,Yugoslavia,Switzerland,Tomašević,70,team1
+1950_2,1950,Yugoslavia,Switzerland,Ognjanov,75,team1
+1950_3,1950,Brazil,Switzerland,Alfredo,3,team1
+1950_3,1950,Brazil,Switzerland,Baltazar,32,team1
+1950_3,1950,Switzerland,Brazil,Fatton,17,team2
+1950_3,1950,Switzerland,Brazil,Fatton,88,team2
+1950_4,1950,Yugoslavia,Mexico,Bobek,19,team1
+1950_4,1950,Yugoslavia,Mexico,Ž. Čajkovski,22,team1
+1950_4,1950,Yugoslavia,Mexico,Ž. Čajkovski,62,team1
+1950_4,1950,Yugoslavia,Mexico,Tomašević,81,team1
+1950_4,1950,Mexico,Yugoslavia,Ortiz,89,team2
+1950_5,1950,Brazil,Yugoslavia,Ademir,4,team1
+1950_5,1950,Brazil,Yugoslavia,Zizinho,69,team1
+1950_6,1950,Switzerland,Mexico,Bader,10,team1
+1950_6,1950,Switzerland,Mexico,Antenen,44,team1
+1950_6,1950,Mexico,Switzerland,Casarín,89,team2
+1950_7,1950,England,Chile,Mortensen,27,team1
+1950_7,1950,England,Chile,Mannion,51,team1
+1950_8,1950,Spain,United States,Igoa,81,team1
+1950_8,1950,Spain,United States,Basora,83,team1
+1950_8,1950,Spain,United States,Zarra,89,team1
+1950_8,1950,United States,Spain,Pariani,17,team2
+1950_9,1950,Spain,Chile,Basora,17,team1
+1950_9,1950,Spain,Chile,Zarra,30,team1
+1950_10,1950,United States,England,Gaetjens,38,team1
+1950_11,1950,Spain,England,Zarra,48,team1
+1950_12,1950,Chile,United States,Robledo,16,team1
+1950_12,1950,Chile,United States,Riera,32,team1
+1950_12,1950,Chile,United States,Cremaschi,54,team1
+1950_12,1950,Chile,United States,Cremaschi,82,team1
+1950_12,1950,Chile,United States,Prieto,60,team1
+1950_12,1950,United States,Chile,Wallace,47,team2
+1950_12,1950,United States,Chile,Maca,48,team2
+1950_13,1950,Sweden,Italy,Jeppson,25,team1
+1950_13,1950,Sweden,Italy,Jeppson,68,team1
+1950_13,1950,Sweden,Italy,Andersson,33,team1
+1950_13,1950,Italy,Sweden,Carapellese,7,team2
+1950_13,1950,Italy,Sweden,Muccinelli,75,team2
+1950_14,1950,Sweden,Paraguay,Sundqvist,17,team1
+1950_14,1950,Sweden,Paraguay,Palmér,26,team1
+1950_14,1950,Paraguay,Sweden,López,35,team2
+1950_14,1950,Paraguay,Sweden,López Fretes,74,team2
+1950_15,1950,Italy,Paraguay,Carapellese,12,team1
+1950_15,1950,Italy,Paraguay,Pandolfini,62,team1
+1950_16,1950,Uruguay,Bolivia,Míguez,14,team1
+1950_16,1950,Uruguay,Bolivia,Míguez,40,team1
+1950_16,1950,Uruguay,Bolivia,Míguez,51,team1
+1950_16,1950,Uruguay,Bolivia,Vidal,18,team1
+1950_16,1950,Uruguay,Bolivia,Schiaffino,23,team1
+1950_16,1950,Uruguay,Bolivia,Schiaffino,54,team1
+1950_16,1950,Uruguay,Bolivia,Pérez,83,team1
+1950_16,1950,Uruguay,Bolivia,Ghiggia,87,team1
+1950_17,1950,Uruguay,Spain,Ghiggia,29,team1
+1950_17,1950,Uruguay,Spain,Varela,73,team1
+1950_17,1950,Spain,Uruguay,Basora,37,team2
+1950_17,1950,Spain,Uruguay,Basora,39,team2
+1950_18,1950,Brazil,Sweden,Ademir,17,team1
+1950_18,1950,Brazil,Sweden,Ademir,36,team1
+1950_18,1950,Brazil,Sweden,Ademir,52,team1
+1950_18,1950,Brazil,Sweden,Ademir,58,team1
+1950_18,1950,Brazil,Sweden,Chico,39,team1
+1950_18,1950,Brazil,Sweden,Chico,88,team1
+1950_18,1950,Brazil,Sweden,Maneca,85,team1
+1950_18,1950,Sweden,Brazil,Andersson,67,team2
+1950_19,1950,Brazil,Spain,Parra,15,team1
+1950_19,1950,Brazil,Spain,Jair,21,team1
+1950_19,1950,Brazil,Spain,Chico,31,team1
+1950_19,1950,Brazil,Spain,Chico,55,team1
+1950_19,1950,Brazil,Spain,Ademir,57,team1
+1950_19,1950,Brazil,Spain,Zizinho,67,team1
+1950_19,1950,Spain,Brazil,Igoa,71,team2
+1950_20,1950,Uruguay,Sweden,Ghiggia,39,team1
+1950_20,1950,Uruguay,Sweden,Míguez,77,team1
+1950_20,1950,Uruguay,Sweden,Míguez,85,team1
+1950_20,1950,Sweden,Uruguay,Palmér,5,team2
+1950_20,1950,Sweden,Uruguay,Sundqvist,40,team2
+1950_21,1950,Sweden,Spain,Sundqvist,15,team1
+1950_21,1950,Sweden,Spain,Mellberg,33,team1
+1950_21,1950,Sweden,Spain,Palmér,80,team1
+1950_21,1950,Spain,Sweden,Zarra,82,team2
+1950_22,1950,Uruguay,Brazil,Schiaffino,66,team1
+1950_22,1950,Uruguay,Brazil,Ghiggia,79,team1
+1950_22,1950,Brazil,Uruguay,Friaça,47,team2
+1990_49,1990,Italy,Argentina,Schillaci,17,team1
+1990_49,1990,Argentina,Italy,Caniggia,67,team2
+1990_50,1990,West Germany,England,Brehme,60,team1
+1990_50,1990,England,West Germany,Lineker,80,team2
+1990_51,1990,Italy,England,Baggio,71,team1
+1990_51,1990,Italy,England,Schillaci,86,team1
+1990_51,1990,England,Italy,Platt,81,team2
+1990_52,1990,West Germany,Argentina,Brehme,85,team1
+2006_61,2006,Italy,Germany,Grosso,119,team2
+2006_61,2006,Italy,Germany,Del Piero,120,team2
+2006_62,2006,France,Portugal,Zidane,33,team2
+2006_63,2006,Germany,Portugal,Schweinsteiger,56,team1
+2006_63,2006,Germany,Portugal,Schweinsteiger,78,team1
+2006_63,2006,Germany,Portugal,Petit,60,team1
+2006_63,2006,Portugal,Germany,Nuno Gomes,88,team2
+2006_64,2006,Italy,France,Materazzi,19,team1
+2006_64,2006,France,Italy,Zidane,7,team2
+2014_1,2014,Brazil,Croatia,Neymar,29,team1
+2014_1,2014,Brazil,Croatia,Neymar,71,team1
+2014_1,2014,Brazil,Croatia,Oscar,90,team1
+2014_1,2014,Croatia,Brazil,Marcelo,11,team2
+2014_2,2014,Mexico,Cameroon,Oribe Peralta,61,team1
+2014_4,2014,Croatia,Cameroon,Ivica Olić,11,team2
+2014_4,2014,Croatia,Cameroon,Ivan Perišić,48,team2
+2014_4,2014,Croatia,Cameroon,Mario Mandžukić,61,team2
+2014_4,2014,Croatia,Cameroon,Mario Mandžukić,73,team2
+2014_5,2014,Cameroon,Brazil,Joel Matip,26,team1
+2014_5,2014,Brazil,Cameroon,Neymar,17,team2
+2014_5,2014,Brazil,Cameroon,Neymar,35,team2
+2014_5,2014,Brazil,Cameroon,Fred,49,team2
+2014_5,2014,Brazil,Cameroon,Fernandinho,84,team2
+2014_6,2014,Croatia,Mexico,Ivan Perišić,87,team1
+2014_6,2014,Mexico,Croatia,Rafael Márquez,72,team2
+2014_6,2014,Mexico,Croatia,Andres Guardado,75,team2
+2014_6,2014,Mexico,Croatia,Javier Hernández,82,team2
+2014_7,2014,Spain,Netherlands,Xabi Alonso,27,team1
+2014_7,2014,Netherlands,Spain,Robin Van Persie,44,team2
+2014_7,2014,Netherlands,Spain,Robin Van Persie,72,team2
+2014_7,2014,Netherlands,Spain,Arjen Robben,53,team2
+2014_7,2014,Netherlands,Spain,Arjen Robben,80,team2
+2014_7,2014,Netherlands,Spain,Stefan De Vrij,65,team2
+2014_8,2014,Chile,Australia,Alexis Sánchez,12,team1
+2014_8,2014,Chile,Australia,Jorge Valdívia,14,team1
+2014_8,2014,Chile,Australia,Jean Beausejour,90,team1
+2014_8,2014,Australia,Chile,Cahill,35,team2
+2014_9,2014,Australia,Netherlands,Tim Cahill,21,team1
+2014_9,2014,Australia,Netherlands,Mile Jedinak,54,team1
+2014_9,2014,Netherlands,Australia,Arjen Robben,20,team2
+2014_9,2014,Netherlands,Australia,Robin Van Persie,58,team2
+2014_9,2014,Netherlands,Australia,Memphis Depay,68,team2
+2014_10,2014,Chile,Spain,Eduardo Vargas,20,team2
+2014_10,2014,Chile,Spain,Charles Aránguiz,43,team2
+2014_11,2014,Spain,Australia,David Villa,36,team2
+2014_11,2014,Spain,Australia,Fernando Torres,69,team2
+2014_11,2014,Spain,Australia,Juan Mata,82,team2
+2014_12,2014,Netherlands,Chile,Leroy Fer,77,team1
+2014_12,2014,Netherlands,Chile,Memphis Depay,90,team1
+2014_13,2014,Colombia,Greece,Pablo Armero,5,team1
+2014_13,2014,Colombia,Greece,Teofilo Gutiérrez,58,team1
+2014_13,2014,Colombia,Greece,James Rodríguez,90,team1
+2014_14,2014,Côte d'Ivoire,Japan,Wilfried Bony,64,team1
+2014_14,2014,Côte d'Ivoire,Japan,Gervinho,66,team1
+2014_14,2014,Japan,Côte d'Ivoire,Keisuke Honda,16,team2
+2014_15,2014,Colombia,Côte d'Ivoire,James Rodríguez,64,team1
+2014_15,2014,Colombia,Côte d'Ivoire,Juan Quintero,70,team1
+2014_15,2014,Côte d'Ivoire,Colombia,Gervinho,73,team2
+2014_17,2014,Japan,Colombia,Shinji Okazaki,45,team1
+2014_17,2014,Colombia,Japan,Juan Cuadrado,17,team2
+2014_17,2014,Colombia,Japan,Jackson Martínez,55,team2
+2014_17,2014,Colombia,Japan,Jackson Martínez,82,team2
+2014_17,2014,Colombia,Japan,James Rodríguez,90,team2
+2014_18,2014,Greece,Côte d'Ivoire,Andreas Samaris,42,team1
+2014_18,2014,Greece,Côte d'Ivoire,Georgios Samaras,90,team1
+2014_18,2014,Côte d'Ivoire,Greece,Wilfried Bony,74,team2
+2014_19,2014,Uruguay,Costa Rica,Edinson Cavani,24,team1
+2014_19,2014,Costa Rica,Uruguay,Joel Campbell,54,team2
+2014_19,2014,Costa Rica,Uruguay,Oscar Duarte,57,team2
+2014_19,2014,Costa Rica,Uruguay,Marcos Ureña,84,team2
+2014_20,2014,England,Italy,Daniel Sturridge,37,team1
+2014_20,2014,Italy,England,Claudio Marchisio,35,team2
+2014_20,2014,Italy,England,Mario Balotelli,50,team2
+2014_21,2014,Uruguay,England,Luis Suárez,39,team1
+2014_21,2014,Uruguay,England,Luis Suárez,85,team1
+2014_21,2014,England,Uruguay,Wayne Rooney,75,team2
+2014_22,2014,Costa Rica,Italy,Bryan Ruiz,44,team2
+2014_23,2014,Uruguay,Italy,Diego Godín,81,team2
+2014_25,2014,Switzerland,Ecuador,Admir Mehmedi,48,team1
+2014_25,2014,Switzerland,Ecuador,Haris Seferović,90,team1
+2014_25,2014,Ecuador,Switzerland,Enner Valencia,22,team2
+2014_26,2014,France,Honduras,Noel Valladares,48,team1
+2014_26,2014,France,Honduras,Karim Benzema,45,team1
+2014_26,2014,France,Honduras,Karim Benzema,72,team1
+2014_27,2014,Switzerland,France,Blerim Džemaili,81,team1
+2014_27,2014,Switzerland,France,Granit Xhaka,87,team1
+2014_27,2014,France,Switzerland,Olivier Giroud,17,team2
+2014_27,2014,France,Switzerland,Blaise Matuidi,18,team2
+2014_27,2014,France,Switzerland,Mathieu Valbuena,40,team2
+2014_27,2014,France,Switzerland,Karim Benzema,67,team2
+2014_27,2014,France,Switzerland,Moussa Sissoko,73,team2
+2014_28,2014,Honduras,Ecuador,Carlo Costly,31,team1
+2014_28,2014,Ecuador,Honduras,Enner Valencia,34,team2
+2014_28,2014,Ecuador,Honduras,Enner Valencia,65,team2
+2014_29,2014,Switzerland,Honduras,Xherdan Shaqiri,6,team2
+2014_29,2014,Switzerland,Honduras,Xherdan Shaqiri,31,team2
+2014_29,2014,Switzerland,Honduras,Xherdan Shaqiri,71,team2
+2014_31,2014,Argentina,Bosnia-Herzegovina,Sead Kolašinac,3,team1
+2014_31,2014,Argentina,Bosnia-Herzegovina,Lionel Messi,65,team1
+2014_31,2014,Bosnia-Herzegovina,Argentina,Vedad Ibišević,85,team2
+2014_33,2014,Argentina,Iran,Lionel Messi,90,team1
+2014_34,2014,Nigeria,Bosnia-Herzegovina,Peter Odemwingie,29,team1
+2014_35,2014,Nigeria,Argentina,Ahmed Musa,4,team1
+2014_35,2014,Nigeria,Argentina,Ahmed Musa,47,team1
+2014_35,2014,Argentina,Nigeria,Lionel Messi,3,team2
+2014_35,2014,Argentina,Nigeria,Lionel Messi,45,team2
+2014_35,2014,Argentina,Nigeria,Marcos Rojo,50,team2
+2014_36,2014,Bosnia-Herzegovina,Iran,Edin Džeko,23,team1
+2014_36,2014,Bosnia-Herzegovina,Iran,Miralem Pjanić,59,team1
+2014_36,2014,Bosnia-Herzegovina,Iran,Avdija Vršajević,83,team1
+2014_36,2014,Iran,Bosnia-Herzegovina,Reza Ghoochannejhad,82,team2
+2014_37,2014,Germany,Portugal,Thomas Müller,12,team1
+2014_37,2014,Germany,Portugal,Thomas Müller,45,team1
+2014_37,2014,Germany,Portugal,Thomas Müller,78,team1
+2014_37,2014,Germany,Portugal,Mats Hummels,32,team1
+2014_38,2014,Ghana,USA,André Ayew,82,team1
+2014_38,2014,USA,Ghana,Clint Dempsey,1,team2
+2014_38,2014,USA,Ghana,John Brooks,86,team2
+2014_39,2014,Germany,Ghana,Mario Götze,51,team1
+2014_39,2014,Germany,Ghana,Miroslav Klose,71,team1
+2014_39,2014,Ghana,Germany,André Ayew,54,team2
+2014_39,2014,Ghana,Germany,Asamoah Gyan,63,team2
+2014_40,2014,USA,Portugal,Jermaine Jones,64,team1
+2014_40,2014,USA,Portugal,Clint Dempsey,81,team1
+2014_40,2014,Portugal,USA,Nani,5,team2
+2014_40,2014,Portugal,USA,Varela,90,team2
+2014_41,2014,Germany,USA,Thomas Müller,55,team2
+2014_42,2014,Portugal,Ghana,John Boye,31,team1
+2014_42,2014,Portugal,Ghana,Cristiano Ronaldo,80,team1
+2014_42,2014,Ghana,Portugal,Asamoah Gyan,57,team2
+2014_43,2014,Belgium,Algeria,Marouane Fellaini,70,team1
+2014_43,2014,Belgium,Algeria,Dries Mertens,80,team1
+2014_43,2014,Algeria,Belgium,Sofiane Feghouli,25,team2
+2014_44,2014,Russia,South Korea,Alexander Kerzhakov,74,team1
+2014_44,2014,South Korea,Russia,Lee Keunho,68,team2
+2014_45,2014,Belgium,Russia,Divock Origi,88,team1
+2014_46,2014,South Korea,Algeria,Son Heung Min,50,team1
+2014_46,2014,South Korea,Algeria,Koo Jacheol,72,team1
+2014_46,2014,Algeria,South Korea,Islam Slimani,26,team2
+2014_46,2014,Algeria,South Korea,Rafik Halliche,28,team2
+2014_46,2014,Algeria,South Korea,Abdelmoumene Djabou,38,team2
+2014_46,2014,Algeria,South Korea,Yacine Brahimi,62,team2
+2014_47,2014,Belgium,South Korea,Jan Vertonghen,78,team2
+2014_48,2014,Algeria,Russia,Islam Slimani,60,team1
+2014_48,2014,Russia,Algeria,Alexander Kokorin,6,team2
+2014_49,2014,Brazil,Chile,David Luiz,18,team1
+2014_49,2014,Chile,Brazil,Alexis Sánchez,32,team2
+2014_50,2014,Colombia,Uruguay,James Rodríguez,28,team1
+2014_50,2014,Colombia,Uruguay,James Rodríguez,50,team1
+2014_51,2014,Netherlands,Mexico,Wesley Sneijder,88,team1
+2014_51,2014,Netherlands,Mexico,Klaas Jan Huntelaar,90,team1
+2014_51,2014,Mexico,Netherlands,Giovani dos Santos,48,team2
+2014_52,2014,Costa Rica,Greece,Bryan Ruiz,52,team1
+2014_52,2014,Greece,Costa Rica,Socratis Papastathopoulos,90,team2
+2014_53,2014,France,Nigeria,Paul Pogba,79,team1
+2014_53,2014,France,Nigeria,Joseph Yobo,90,team1
+2014_54,2014,Germany,Algeria,André Schürrle,92,team1
+2014_54,2014,Germany,Algeria,Mesut Özil,120,team1
+2014_54,2014,Algeria,Germany,Abdelmoumene Djabou,121,team2
+2014_55,2014,Argentina,Switzerland,Ángel di María,118,team1
+2014_56,2014,Belgium,USA,Kevin De Bruyne,93,team1
+2014_56,2014,Belgium,USA,Romelu Lukaku,105,team1
+2014_56,2014,USA,Belgium,Julian Green,107,team2
+2014_57,2014,Germany,France,Mats Hummels,13,team2
+2014_58,2014,Brazil,Colombia,Thiago Silva,7,team1
+2014_58,2014,Brazil,Colombia,David Luiz,69,team1
+2014_58,2014,Colombia,Brazil,Rodríguez,80,team2
+2014_59,2014,Argentina,Belgium,Gonzalo Higuaín,8,team1
+2014_61,2014,Brazil,Germany,Oscar,90,team1
+2014_61,2014,Germany,Brazil,Thomas Müller,11,team2
+2014_61,2014,Germany,Brazil,Miroslav Klose,23,team2
+2014_61,2014,Germany,Brazil,Toni Kroos,24,team2
+2014_61,2014,Germany,Brazil,Toni Kroos,26,team2
+2014_61,2014,Germany,Brazil,Sami Khedira,29,team2
+2014_61,2014,Germany,Brazil,Andre Schürrle,69,team2
+2014_61,2014,Germany,Brazil,Andre Schürrle,79,team2
+2014_63,2014,Netherlands,Brazil,Robin Van Persie,3,team2
+2014_63,2014,Netherlands,Brazil,Daley Blind,17,team2
+2014_63,2014,Netherlands,Brazil,Georginio Wijnaldum,90,team2
+2014_64,2014,Germany,Argentina,Mario Götze,113,team1
+2018_1,2018,Russia,Saudi Arabia,Gazinsky,12,team1
+2018_1,2018,Russia,Saudi Arabia,Cheryshev,43,team1
+2018_1,2018,Russia,Saudi Arabia,Cheryshev,90,team1
+2018_1,2018,Russia,Saudi Arabia,Dzyuba,71,team1
+2018_1,2018,Russia,Saudi Arabia,Golovin,90,team1
+2018_2,2018,Uruguay,Egypt,Giménez,89,team2
+2018_3,2018,Russia,Egypt,A. Fathi,47,team1
+2018_3,2018,Russia,Egypt,Cheryshev,59,team1
+2018_3,2018,Russia,Egypt,Dzyuba,62,team1
+2018_3,2018,Egypt,Russia,M. Salah,73,team2
+2018_4,2018,Uruguay,Saudi Arabia,L. Suárez,23,team1
+2018_5,2018,Uruguay,Russia,L. Suárez,10,team1
+2018_5,2018,Uruguay,Russia,Cheryshev,23,team1
+2018_5,2018,Uruguay,Russia,E. Cavani,90,team1
+2018_6,2018,Saudi Arabia,Egypt,Salman Al-Faraj,45,team1
+2018_6,2018,Saudi Arabia,Egypt,Salem Al-Dawsari,90,team1
+2018_6,2018,Egypt,Saudi Arabia,M. Salah,22,team2
+2018_7,2018,Iran,Morocco,Bouhaddouz,90,team2
+2018_8,2018,Portugal,Spain,Ronaldo,4,team1
+2018_8,2018,Portugal,Spain,Ronaldo,44,team1
+2018_8,2018,Portugal,Spain,Ronaldo,88,team1
+2018_8,2018,Spain,Portugal,Costa,24,team2
+2018_8,2018,Spain,Portugal,Costa,55,team2
+2018_8,2018,Spain,Portugal,Nacho,58,team2
+2018_9,2018,Portugal,Morocco,Ronaldo,4,team1
+2018_10,2018,Spain,Iran,Diego Costa,54,team2
+2018_11,2018,Iran,Portugal,Karim Ansarifard,90,team1
+2018_11,2018,Portugal,Iran,Quaresma,45,team2
+2018_12,2018,Spain,Morocco,Isco,19,team1
+2018_12,2018,Spain,Morocco,Iago Aspas,90,team1
+2018_12,2018,Morocco,Spain,Boutaib,14,team2
+2018_12,2018,Morocco,Spain,En-Nesyri,81,team2
+2018_13,2018,France,Australia,Griezmann,58,team1
+2018_13,2018,France,Australia,Behich,81,team1
+2018_13,2018,Australia,France,Jedinak,62,team2
+2018_14,2018,Denmark,Peru,Poulsen,59,team2
+2018_15,2018,Denmark,Australia,Eriksen,7,team1
+2018_15,2018,Australia,Denmark,Jedinak,38,team2
+2018_16,2018,France,Peru,Mbappé,34,team1
+2018_18,2018,Peru,Australia,Carrillo,18,team2
+2018_18,2018,Peru,Australia,Guerrero,50,team2
+2018_19,2018,Argentina,Iceland,Agüero,19,team1
+2018_19,2018,Iceland,Argentina,Finnbogason,23,team2
+2018_20,2018,Croatia,Nigeria,Etebo,32,team1
+2018_20,2018,Croatia,Nigeria,Modrić,71,team1
+2018_21,2018,Croatia,Argentina,Rebić,53,team2
+2018_21,2018,Croatia,Argentina,Modrić,80,team2
+2018_21,2018,Croatia,Argentina,Rakitić,90,team2
+2018_22,2018,Nigeria,Iceland,Musa,49,team1
+2018_22,2018,Nigeria,Iceland,Musa,75,team1
+2018_23,2018,Nigeria,Argentina,Moses,51,team1
+2018_23,2018,Argentina,Nigeria,Messi,14,team2
+2018_23,2018,Argentina,Nigeria,Marcos Rojo,86,team2
+2018_24,2018,Iceland,Croatia,G. Sigurðsson,76,team1
+2018_24,2018,Croatia,Iceland,Badelj,53,team2
+2018_24,2018,Croatia,Iceland,Perišić,90,team2
+2018_25,2018,Serbia,Costa Rica,Kolarov,56,team2
+2018_26,2018,Brazil,Switzerland,Coutinho,20,team1
+2018_26,2018,Switzerland,Brazil,Zuber,50,team2
+2018_27,2018,Brazil,Costa Rica,P. Coutinho,90,team1
+2018_27,2018,Brazil,Costa Rica,Neymar Jr,90,team1
+2018_28,2018,Serbia,Switzerland,Mitrović,5,team1
+2018_28,2018,Switzerland,Serbia,Xhaka,52,team2
+2018_28,2018,Switzerland,Serbia,Shaqiri,90,team2
+2018_29,2018,Brazil,Serbia,Paulinho,36,team2
+2018_29,2018,Brazil,Serbia,Thiago Silva,68,team2
+2018_30,2018,Switzerland,Costa Rica,Džemaili,31,team1
+2018_30,2018,Switzerland,Costa Rica,Drmić,88,team1
+2018_30,2018,Costa Rica,Switzerland,Waston,56,team2
+2018_30,2018,Costa Rica,Switzerland,Sommer,90,team2
+2018_31,2018,Mexico,Germany,Lozano,35,team2
+2018_32,2018,Sweden,South Korea,Granqvist,65,team1
+2018_33,2018,South Korea,Mexico,Son Heung-min,90,team1
+2018_33,2018,Mexico,South Korea,Carlos Vela,26,team2
+2018_33,2018,Mexico,South Korea,J. Hernández,66,team2
+2018_34,2018,Germany,Sweden,Reus,48,team1
+2018_34,2018,Germany,Sweden,Kroos,90,team1
+2018_34,2018,Sweden,Germany,Toivonen,32,team2
+2018_35,2018,South Korea,Germany,Kim Young-gwon,90,team1
+2018_35,2018,South Korea,Germany,Son Heung-min,90,team1
+2018_36,2018,Sweden,Mexico,Augustinsson,50,team2
+2018_36,2018,Sweden,Mexico,Granqvist,62,team2
+2018_36,2018,Sweden,Mexico,Álvarez,74,team2
+2018_37,2018,Belgium,Panama,Mertens,47,team1
+2018_37,2018,Belgium,Panama,Lukaku,69,team1
+2018_37,2018,Belgium,Panama,Lukaku,75,team1
+2018_38,2018,Tunisia,England,Sassi,35,team1
+2018_38,2018,England,Tunisia,Kane,11,team2
+2018_38,2018,England,Tunisia,Kane,90,team2
+2018_39,2018,Belgium,Tunisia,E. Hazard,6,team1
+2018_39,2018,Belgium,Tunisia,E. Hazard,51,team1
+2018_39,2018,Belgium,Tunisia,R. Lukaku,16,team1
+2018_39,2018,Belgium,Tunisia,R. Lukaku,45,team1
+2018_39,2018,Belgium,Tunisia,Batshuayi,90,team1
+2018_39,2018,Tunisia,Belgium,Bronn,18,team2
+2018_39,2018,Tunisia,Belgium,Khazri,90,team2
+2018_40,2018,England,Panama,Stones,8,team1
+2018_40,2018,England,Panama,Stones,40,team1
+2018_40,2018,England,Panama,Kane,22,team1
+2018_40,2018,England,Panama,Kane,45,team1
+2018_40,2018,England,Panama,Kane,62,team1
+2018_40,2018,England,Panama,Lingard,36,team1
+2018_40,2018,Panama,England,Baloy,78,team2
+2018_41,2018,Belgium,England,Adnan Januzaj,51,team2
+2018_42,2018,Panama,Tunisia,Yassine Meriah,33,team1
+2018_42,2018,Tunisia,Panama,Fakhereedine Ben Youssef,51,team2
+2018_42,2018,Tunisia,Panama,Wahbi Khazri,66,team2
+2018_43,2018,Colombia,Japan,J. Quintero,39,team1
+2018_43,2018,Japan,Colombia,Kagawa,6,team2
+2018_43,2018,Japan,Colombia,Osako,73,team2
+2018_44,2018,Poland,Senegal,Krychowiak,86,team1
+2018_44,2018,Senegal,Poland,Cionek,37,team2
+2018_44,2018,Senegal,Poland,Niang,60,team2
+2018_45,2018,Japan,Senegal,Inui,34,team1
+2018_45,2018,Japan,Senegal,Honda,78,team1
+2018_45,2018,Senegal,Japan,Mané,11,team2
+2018_45,2018,Senegal,Japan,M. Wagué,71,team2
+2018_46,2018,Colombia,Poland,Y. Mina,40,team2
+2018_46,2018,Colombia,Poland,Falcao,70,team2
+2018_46,2018,Colombia,Poland,Cuadrado,75,team2
+2018_47,2018,Poland,Japan,Bednarek,59,team2
+2018_48,2018,Colombia,Senegal,Y. Mina,74,team2
+2018_49,2018,France,Argentina,Antoine Griezmann,13,team1
+2018_49,2018,France,Argentina,Benjamin Pavard,57,team1
+2018_49,2018,France,Argentina,Kylian Mbappé,64,team1
+2018_49,2018,France,Argentina,Kylian Mbappé,68,team1
+2018_49,2018,Argentina,France,Ángel Di María,41,team2
+2018_49,2018,Argentina,France,Gabriel Mercado,48,team2
+2018_49,2018,Argentina,France,Sergio Agüero,90,team2
+2018_50,2018,Uruguay,Portugal,Edinson Cavani,7,team1
+2018_50,2018,Uruguay,Portugal,Edinson Cavani,62,team1
+2018_50,2018,Portugal,Uruguay,Pepe,55,team2
+2018_51,2018,Spain,Russia,Sergei Ignashevich,12,team1
+2018_51,2018,Russia,Spain,Artem Dzyuba,41,team2
+2018_52,2018,Croatia,Denmark,Mario Mandžukić,4,team1
+2018_52,2018,Denmark,Croatia,Mathias Jørgensen,1,team2
+2018_53,2018,Brazil,Mexico,Neymar,51,team1
+2018_53,2018,Brazil,Mexico,Roberto Firmino,88,team1
+2018_54,2018,Belgium,Japan,Jan Vertonghen,69,team1
+2018_54,2018,Belgium,Japan,Marouane Fellaini,74,team1
+2018_54,2018,Belgium,Japan,Nacer Chadli,90,team1
+2018_54,2018,Japan,Belgium,Genki Haraguchi,48,team2
+2018_54,2018,Japan,Belgium,Takashi Inui,52,team2
+2018_55,2018,Sweden,Switzerland,Emil Forsberg,66,team1
+2018_56,2018,Colombia,England,Yerry Mina,90,team1
+2018_56,2018,England,Colombia,Harry Kane,57,team2
+2018_57,2018,France,Uruguay,Raphaël Varane,40,team2
+2018_57,2018,France,Uruguay,Antoine Griezmann,61,team2
+2018_58,2018,Brazil,Belgium,Renato Augusto,76,team1
+2018_58,2018,Belgium,Brazil,Fernandinho,13,team2
+2018_58,2018,Belgium,Brazil,Kevin De Bruyne,31,team2
+2018_59,2018,England,Sweden,Harry Maguire,30,team2
+2018_59,2018,England,Sweden,Dele Alli,58,team2
+2018_60,2018,Russia,Croatia,Denis Cheryshev,31,team1
+2018_60,2018,Russia,Croatia,Mário Figueira Fernandes,115,team1
+2018_60,2018,Croatia,Russia,Andrej Kramarić,39,team2
+2018_60,2018,Croatia,Russia,Domagoj Vida,100,team2
+2018_61,2018,France,Belgium,Samuel Umtiti,51,team1
+2018_62,2018,Croatia,England,Ivan Perišić,68,team1
+2018_62,2018,Croatia,England,Mario Mandžukić,109,team1
+2018_62,2018,England,Croatia,Kieran Trippier,5,team2
+2018_63,2018,Belgium,England,Thomas Meunier,4,team1
+2018_63,2018,Belgium,England,Eden Hazard,82,team1
+2018_64,2018,France,Croatia,Mandžukić,18,team1
+2018_64,2018,France,Croatia,Griezmann,38,team1
+2018_64,2018,France,Croatia,Pogba,59,team1
+2018_64,2018,France,Croatia,Mbappé,65,team1
+2018_64,2018,Croatia,France,Perišić,28,team2
+2018_64,2018,Croatia,France,Mandžukić,69,team2
+2022_1,2022,Ecuador,Qatar,Enner Valencia,16,team2
+2022_1,2022,Ecuador,Qatar,Enner Valencia,31,team2
+2022_2,2022,Netherlands,Senegal,Cody Gakpo,84,team2
+2022_2,2022,Netherlands,Senegal,Davy Klaassen,90,team2
+2022_3,2022,Qatar,Senegal,Mohammed Muntari,78,team1
+2022_3,2022,Senegal,Qatar,Boulaye Dia,41,team2
+2022_3,2022,Senegal,Qatar,Famara Diédhiou,48,team2
+2022_3,2022,Senegal,Qatar,Bamba Dieng,84,team2
+2022_4,2022,Netherlands,Ecuador,Cody Gakpo,6,team1
+2022_4,2022,Ecuador,Netherlands,Enner Valencia,49,team2
+2022_5,2022,Ecuador,Senegal,Moisés Caicedo,67,team1
+2022_5,2022,Senegal,Ecuador,Ismaila Sarr,44,team2
+2022_5,2022,Senegal,Ecuador,Koulibaly,70,team2
+2022_6,2022,Netherlands,Qatar,Cody Gakpo,26,team1
+2022_6,2022,Netherlands,Qatar,Frenkie de Jong,49,team1
+2022_7,2022,England,Iran,Jude Bellingham,35,team1
+2022_7,2022,England,Iran,Bukayo Saka,43,team1
+2022_7,2022,England,Iran,Bukayo Saka,62,team1
+2022_7,2022,England,Iran,Raheem Sterling,45,team1
+2022_7,2022,England,Iran,Marcus Rashford,71,team1
+2022_7,2022,England,Iran,Jack Grealish,90,team1
+2022_7,2022,Iran,England,Mehdi Taremi,65,team2
+2022_7,2022,Iran,England,Mehdi Taremi,90,team2
+2022_8,2022,USA,Wales,Timothy Weah,36,team1
+2022_8,2022,Wales,USA,Gareth Bale,82,team2
+2022_9,2022,Iran,Wales,Roozbeh Cheshmi,90,team2
+2022_9,2022,Iran,Wales,Ramin Rezaeian,90,team2
+2022_11,2022,England,Wales,Rashford,50,team2
+2022_11,2022,England,Wales,Foden,51,team2
+2022_11,2022,England,Wales,Rashford,68,team2
+2022_12,2022,USA,Iran,Pulisic,38,team2
+2022_13,2022,Argentina,Saudi Arabia,Lionel Messi,10,team1
+2022_13,2022,Saudi Arabia,Argentina,Saleh Al Shehri,48,team2
+2022_13,2022,Saudi Arabia,Argentina,Salem Al Dawsari,53,team2
+2022_15,2022,Poland,Saudi Arabia,Piotr Zielinski,39,team1
+2022_15,2022,Poland,Saudi Arabia,Robert Lewandowski,82,team1
+2022_16,2022,Argentina,Mexico,Lionel Messi,64,team1
+2022_16,2022,Argentina,Mexico,Enzo Fernández,87,team1
+2022_17,2022,Argentina,Poland,Mac Allister,46,team2
+2022_17,2022,Argentina,Poland,Julián Álvarez,67,team2
+2022_18,2022,Saudi Arabia,Mexico,Salem Al Dawasari,90,team1
+2022_18,2022,Mexico,Saudi Arabia,Henry Martín,47,team2
+2022_18,2022,Mexico,Saudi Arabia,Luis Chávez,52,team2
+2022_20,2022,France,Australia,Adrien Rabiot,27,team1
+2022_20,2022,France,Australia,Olivier Giroud,32,team1
+2022_20,2022,France,Australia,Olivier Giroud,71,team1
+2022_20,2022,France,Australia,Kylian Mbappé,68,team1
+2022_20,2022,Australia,France,Craig Goodwin,9,team2
+2022_21,2022,Australia,Tunisia,Mitchell Duke,23,team2
+2022_22,2022,France,Denmark,Kylian Mbappé,61,team1
+2022_22,2022,France,Denmark,Kylian Mbappé,86,team1
+2022_22,2022,Denmark,France,Andreas Christensen,68,team2
+2022_23,2022,Australia,Denmark,Mathew Leckie,60,team1
+2022_24,2022,Tunisia,France,Wahbi Khazri,58,team1
+2022_25,2022,Germany,Japan,Ilkay Gündogan,33,team1
+2022_25,2022,Japan,Germany,Ritsu Doan,75,team2
+2022_25,2022,Japan,Germany,Takuma Asano,83,team2
+2022_26,2022,Spain,Costa Rica,Dani Olmo,11,team1
+2022_26,2022,Spain,Costa Rica,Marco Asensio,21,team1
+2022_26,2022,Spain,Costa Rica,Ferran Torres,31,team1
+2022_26,2022,Spain,Costa Rica,Ferran Torres,54,team1
+2022_26,2022,Spain,Costa Rica,Gavi,74,team1
+2022_26,2022,Spain,Costa Rica,Carlos Soler,90,team1
+2022_26,2022,Spain,Costa Rica,Álvaro Morata,90,team1
+2022_27,2022,Costa Rica,Japan,Keysher Fuller,81,team2
+2022_28,2022,Spain,Germany,Álvaro Morata,62,team1
+2022_28,2022,Germany,Spain,Niclas Füllkrug,83,team2
+2022_29,2022,Japan,Spain,Ritsu Dōan,48,team1
+2022_29,2022,Japan,Spain,Ao Tanaka,51,team1
+2022_29,2022,Spain,Japan,Álvaro Morata,11,team2
+2022_30,2022,Costa Rica,Germany,Yeltsin Tejeda,58,team1
+2022_30,2022,Costa Rica,Germany,Juan Vargas,70,team1
+2022_30,2022,Germany,Costa Rica,Serge Gnabry,10,team2
+2022_30,2022,Germany,Costa Rica,Kai Lukas Havertz,73,team2
+2022_30,2022,Germany,Costa Rica,Kai Lukas Havertz,85,team2
+2022_30,2022,Germany,Costa Rica,Niclas Füllkrug,89,team2
+2022_32,2022,Belgium,Canada,Michy Batshuayi,44,team1
+2022_33,2022,Morocco,Belgium,Romain Saïss,73,team2
+2022_33,2022,Morocco,Belgium,Zakaria Aboukhlal,90,team2
+2022_34,2022,Croatia,Canada,Andrej Kramarić,36,team1
+2022_34,2022,Croatia,Canada,Marko Livaja,44,team1
+2022_34,2022,Croatia,Canada,Andrej Kramarić,70,team1
+2022_34,2022,Croatia,Canada,Lovro Majer,90,team1
+2022_34,2022,Canada,Croatia,Alphonso Davies,2,team2
+2022_36,2022,Canada,Morocco,Nayef Aguerd,40,team1
+2022_36,2022,Morocco,Canada,Hakim Zyiech,4,team2
+2022_36,2022,Morocco,Canada,Youssef En-Nesyri,23,team2
+2022_37,2022,Switzerland,Cameroon,Breel Embolo,48,team1
+2022_38,2022,Brazil,Serbia,Richarlison,62,team1
+2022_38,2022,Brazil,Serbia,Richarlison,73,team1
+2022_39,2022,Cameroon,Serbia,Jean-Charles Castelletto,29,team1
+2022_39,2022,Cameroon,Serbia,Vincent Aboubakar,63,team1
+2022_39,2022,Cameroon,Serbia,Jean-Eric Choupo-Moting,66,team1
+2022_39,2022,Serbia,Cameroon,Strahinja Pavlović,45,team2
+2022_39,2022,Serbia,Cameroon,Sergej Milinković-Savić,45,team2
+2022_39,2022,Serbia,Cameroon,Aleksandar Mitrović,53,team2
+2022_40,2022,Brazil,Switzerland,Casemiro,83,team1
+2022_41,2022,Serbia,Switzerland,Aleksandar Mitrović,26,team1
+2022_41,2022,Serbia,Switzerland,Dušan Vlahović,35,team1
+2022_41,2022,Switzerland,Serbia,Xherdan Shaqiri,20,team2
+2022_41,2022,Switzerland,Serbia,Breel Embolo,44,team2
+2022_41,2022,Switzerland,Serbia,Freuler,48,team2
+2022_42,2022,Cameroon,Brazil,Vincent Aboubakar,90,team1
+2022_44,2022,Portugal,Ghana,Cristiano Ronaldo,65,team1
+2022_44,2022,Portugal,Ghana,João Félix,78,team1
+2022_44,2022,Portugal,Ghana,Rafael Leão,80,team1
+2022_44,2022,Ghana,Portugal,André Ayew,73,team2
+2022_44,2022,Ghana,Portugal,Osman Bukari,89,team2
+2022_45,2022,South Korea,Ghana,Cho Gue-sung,58,team1
+2022_45,2022,South Korea,Ghana,Cho Gue-sung,61,team1
+2022_45,2022,Ghana,South Korea,Mohammed Salisu,24,team2
+2022_45,2022,Ghana,South Korea,Mohammed Kudus,34,team2
+2022_45,2022,Ghana,South Korea,Mohammed Kudus,68,team2
+2022_46,2022,Portugal,Uruguay,Bruno Fernandes,54,team1
+2022_46,2022,Portugal,Uruguay,Bruno Fernandes,90,team1
+2022_47,2022,Uruguay,Ghana,Giorgian De Arrascaeta,26,team2
+2022_47,2022,Uruguay,Ghana,Giorgian De Arrascaeta,32,team2
+2022_48,2022,South Korea,Portugal,Kim Young-gwon,27,team1
+2022_48,2022,South Korea,Portugal,Hwang Hee-chan,90,team1
+2022_48,2022,Portugal,South Korea,Ricardo Horta,5,team2
+2022_49,2022,Netherlands,USA,Memphis Depay,10,team1
+2022_49,2022,Netherlands,USA,Daley Blind,45,team1
+2022_49,2022,Netherlands,USA,Denzel Dumfries,81,team1
+2022_49,2022,USA,Netherlands,Haji Wright,76,team2
+2022_50,2022,Argentina,Australia,Lionel Messi,35,team1
+2022_50,2022,Argentina,Australia,Julián Álvarez,57,team1
+2022_50,2022,Australia,Argentina,Enzo Fernández,77,team2
+2022_51,2022,France,Poland,Olivier Giroud,44,team1
+2022_51,2022,France,Poland,Mbappé,74,team1
+2022_51,2022,France,Poland,Mbappé,90,team1
+2022_51,2022,Poland,France,Robert Lewandowski,90,team2
+2022_52,2022,England,Senegal,Jordan Henderson,38,team1
+2022_52,2022,England,Senegal,Harry Kane,45,team1
+2022_52,2022,England,Senegal,Bukayo Saka,57,team1
+2022_53,2022,Japan,Croatia,Daizen Maeda,43,team1
+2022_53,2022,Croatia,Japan,Ivan Perišić,55,team2
+2022_54,2022,Brazil,South Korea,Vinícius Jr.,7,team1
+2022_54,2022,Brazil,South Korea,Neymar,13,team1
+2022_54,2022,Brazil,South Korea,Richarlison,29,team1
+2022_54,2022,Brazil,South Korea,Lucas Paquetá,36,team1
+2022_54,2022,South Korea,Brazil,Paik Seung-ho,76,team2
+2022_56,2022,Portugal,Switzerland,Gonçalo Ramos,17,team1
+2022_56,2022,Portugal,Switzerland,Gonçalo Ramos,51,team1
+2022_56,2022,Portugal,Switzerland,Gonçalo Ramos,67,team1
+2022_56,2022,Portugal,Switzerland,Pepe,33,team1
+2022_56,2022,Portugal,Switzerland,Raphaël Guerreiro,55,team1
+2022_56,2022,Portugal,Switzerland,Rafael Leão,90,team1
+2022_56,2022,Switzerland,Portugal,Manuel Akanji,58,team2
+2022_57,2022,Croatia,Brazil,Bruno Petković,117,team1
+2022_57,2022,Brazil,Croatia,Neymar,105,team2
+2022_58,2022,Netherlands,Argentina,Wout Werghost,83,team1
+2022_58,2022,Netherlands,Argentina,Wout Werghost,90,team1
+2022_58,2022,Argentina,Netherlands,Nahuel Molina,35,team2
+2022_58,2022,Argentina,Netherlands,Lionel Messi,73,team2
+2022_59,2022,Morocco,Portugal,Youssef En-Nesyri,42,team1
+2022_60,2022,England,France,Harry Kane,54,team1
+2022_60,2022,France,England,Aurelién Tchouaméni,17,team2
+2022_60,2022,France,England,Olivier Giroud,78,team2
+2022_61,2022,Argentina,Croatia,Lionel Messi,34,team1
+2022_61,2022,Argentina,Croatia,Julián Álvarez,39,team1
+2022_61,2022,Argentina,Croatia,Julián Álvarez,69,team1
+2022_62,2022,France,Morocco,Théo Hernandez,5,team1
+2022_62,2022,France,Morocco,Kolo Muani,79,team1
+2022_63,2022,Croatia,Morocco,Joško Gvardiol,7,team1
+2022_63,2022,Croatia,Morocco,Mislav Oršić,42,team1
+2022_63,2022,Morocco,Croatia,Achraf Dari,9,team2
+2022_64,2022,Argentina,France,Lionel Messi,23,team1
+2022_64,2022,Argentina,France,Lionel Messi,108,team1
+2022_64,2022,Argentina,France,Ángel Di María,36,team1
+2022_64,2022,France,Argentina,Kylian Mbappé,80,team2
+2022_64,2022,France,Argentina,Kylian Mbappé,81,team2
+2022_64,2022,France,Argentina,Kylian Mbappé,118,team2
