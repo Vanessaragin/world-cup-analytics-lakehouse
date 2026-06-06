@@ -1,23 +1,3 @@
-"""
-Bronze transformation for OpenFootball World Cup data.
-
-Creates:
-1. bronze_matches.csv
-2. bronze_goals.csv
-3. bronze_team_match_stats.csv
-
-Important rule:
-- FT = score at 90 minutes
-- ET = score after extra time
-- P  = penalty shootout
-
-For total match goals, we use:
-- ET when it exists
-- otherwise FT
-
-Penalty shootout goals are NOT counted as match goals.
-"""
-
 from pathlib import Path
 import json
 import pandas as pd

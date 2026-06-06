@@ -1,15 +1,3 @@
-"""
-Gold transformation for World Cup analytics.
-
-Input:
-- silver_teams.csv
-- silver_world_cups.csv
-
-Output:
-- gold_team_ranking.csv
-- gold_world_cup_summary.csv
-"""
-
 from pathlib import Path
 import pandas as pd
 

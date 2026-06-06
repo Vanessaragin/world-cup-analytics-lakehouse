@@ -1,18 +1,3 @@
-"""
-Silver transformation for World Cup analytics.
-
-Input:
-- data/bronze/openfootball/bronze_matches.csv
-- data/bronze/openfootball/bronze_team_match_stats.csv
-- data/bronze/openfootball/bronze_goals.csv
-
-Output:
-- data/silver/openfootball/silver_matches.csv
-- data/silver/openfootball/silver_teams.csv
-- data/silver/openfootball/silver_world_cups.csv
-- data/silver/openfootball/silver_goals.csv
-"""
-
 from pathlib import Path
 import pandas as pd
 
